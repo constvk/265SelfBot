@@ -1,5 +1,10 @@
 # 265 Discord SelfBot
 
+```
+Nuker & Clear DM = Basic!
+```
+
+
 ```cs
 pip install discord
 pip install colorama
